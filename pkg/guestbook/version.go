@@ -15,6 +15,6 @@
 package guestbook
 
 const (
-	// Version fpr the application.
+	// Version for the application.
 	Version = "0.0.1"
 )
